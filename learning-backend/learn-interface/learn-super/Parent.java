@@ -8,4 +8,8 @@ public class Parent {
 		this.age = age;
 	}
 
+	public void dialogue() {
+		System.out.println("DO your studies");
+	}
+
 }
