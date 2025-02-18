@@ -8,8 +8,4 @@ public class Parent {
 		this.age = age;
 	}
 
-	void setParent(int age, String name){
-		this.name = name;
-		this.age = age;
-	}
 }
